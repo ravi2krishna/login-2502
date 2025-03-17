@@ -14,4 +14,15 @@ name: ravi
 city: hyderabad
 zip: 500081
 
+# Set Of Key Values (Map/Dictionary) Representation
+trainer:
+  name: ravi
+  city: hyderabad
+  zip: 500081
 
+student:
+  name: ram
+  course: devops
+  class_mode: online
+
+  
