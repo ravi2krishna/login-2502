@@ -8,6 +8,10 @@
 
 # Multiple Items (List/Array)
 
-
+# Simple Key Values Representation
+key: value
+name: ravi
+city: hyderabad
+zip: 500081
 
 
