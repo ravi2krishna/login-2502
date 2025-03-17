@@ -25,4 +25,9 @@ student:
   course: devops
   class_mode: online
 
-  
+# Mutiple Items (List/Array) Representation  
+courses:
+- aws
+- azure
+- devops
+- python
